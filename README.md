@@ -10,3 +10,4 @@ Tech Stack:
 This Portfolio is built in pure HTML & CSS.
 It consists of mini 13 Projects,which were built with the help of HTML, CSS, JavaScript.
 Link for my Portfolio:
+https://himanshus-portfolio.netlify.app
